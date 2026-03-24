@@ -1,28 +1,60 @@
 # DoremiChar
 
-> A website and python software that converts text into 8-bit audio tones.
+DoremiChar is a tool that can converts text into 8-bit audio tones.
+You can write anything and listen it 8-bit audio tone.
 
 ---
 
-## Needs for use
+## Why this project (DoremiChar) was created?
 
-- PC, laptop for python software.
-- PC, laptop or/and smarthphone (web)
-- For run in python (pip install numpy simpleaudio)
-
-```bash
-pip install numpy simpleaudio
-```
+I just think that probably are interesting try to translate a letter (a-z) to an 8-bit audio tone.
+First I wanted to translate Do-re-mi-fa-sol-la-si-do notes to letters, but I decided translate to 8-bit audio tones.
 
 ---
 
-## Technollogy used
+## Good things about this project (DoremiChar)
 
-- Python
+- Can you try to translate any text, short or large, and listen it into 8-bit audio tone.
+- Can edit settings of the audio, like: Duration per Letter (seconds), Silence for Space (seconds) and Base Frequency (Hz).
+
+---
+
+## Features of CLL
+
+- Funny. (Maybe)
+- No login, fast start.
+- Simple interface.
+
+---
+
+## Preview of DoremiChar
+
+<img width="1892" height="874" alt="image" src="https://github.com/user-attachments/assets/4b5bde98-0210-42dc-9742-13c499654209" />
+<img width="1888" height="865" alt="image" src="https://github.com/user-attachments/assets/e12d1416-846f-46e1-ab81-d7fb0e39b10b" />
+<img width="415" height="737" alt="image" src="https://github.com/user-attachments/assets/6f31c35c-6ac6-48d7-87b0-c64ce7b83bef" />
+
+---
+
+## URL of DoremiChar
+
+[https://airam2w.github.io/DoremiChar/](https://airam2w.github.io/DoremiChar/)
+
+---
+
+## Installation (Python program)
+
+(Steps for run the project)
+
+---
+
+## Technologies
+
+- Python (simpleaudio)
 - Web Audio API (native)
+- Copilot (Logo)
 
 ---
 
-## URL of website
+## Future Improvements
 
-[https://airam21170247.github.io/DoremiChar/](https://airam21170247.github.io/DoremiChar/)
+- Available for others alphabets.
