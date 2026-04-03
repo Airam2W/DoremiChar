@@ -12,7 +12,7 @@ Can try it in web or download and use like Python code for your projects.
 
 I just think that probably are interesting try to translate a letter (a-z) to an 8-bit audio tone.
 
-First I wanted to translate Do-re-mi-fa-sol-la-si-do notes to letters, but I decided translate to 8-bit audio tones.
+First I wanted to translate *Do-re-mi-fa-sol-la-si-do* notes to letters, but I decided translate to 8-bit audio tones.
 
 First I wanted to translate specifically *Do-re-mi-fa-sol-la-si-do* notes to letters, but I decided translate to 8-bit audio tones.
 
